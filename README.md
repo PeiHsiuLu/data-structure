@@ -54,6 +54,7 @@ my_array = [1, 2, 3, 4, 5]
 
 # 創建一個字符串陣列
 str_array = ["apple", "banana", "orange"]
+```
+# 專題連結區
 
-專題連結區
-課程筆記區
+
