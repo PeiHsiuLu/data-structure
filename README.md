@@ -48,15 +48,12 @@
 ## 四、例子  
 
 ### 4.1 創建陣列
-```python
+```markdown
 # 創建一個整數陣列
 my_array = [1, 2, 3, 4, 5]
 
 # 創建一個字符串陣列
-str_array = ["apple", "banana", "orange"]  
+str_array = ["apple", "banana", "orange"]
 
 專題連結區
-=====
-
 課程筆記區
-=====
