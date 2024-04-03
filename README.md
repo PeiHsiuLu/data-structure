@@ -55,6 +55,110 @@ my_array = [1, 2, 3, 4, 5]
 # 創建一個字符串陣列
 str_array = ["apple", "banana", "orange"]
 ```
+
+# Linked List
+
+Linked list是一種常見的線性數據結構，它由一系列節點組成，每個節點包含數據域和指向下一個節點的指針。
+
+## 特點
+
+- Linked list中的每個節點包含兩個字段：數據域用於存儲數據，指針域用於指向下一個節點。
+- 最後一個節點的指針域通常為空，表示結尾。
+- Linked list可以是單向的或雙向的。
+
+## 優點
+
+- 動態分配內存，大小不固定。
+- 插入和刪除操作的時間複雜度為O(1)，即使在中間插入或刪除節點也是如此。
+
+## 缺點
+
+- 不支持隨機訪問，訪問某個元素的時間複雜度為O(n)。
+- 需要額外的空間來存儲指針。
+
+## 類型
+
+1. 單向鏈表（Singly Linked List）
+2. 雙向鏈表（Doubly Linked List）
+3. 循環鏈表（Circular Linked List）
+
+## 範例程式碼（Python）
+
+### 單向鏈表
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        last_node = self.head
+        while last_node.next:
+            last_node = last_node.next
+        last_node.next = new_node
+
+    def print_list(self):
+        current_node = self.head
+        while current_node:
+            print(current_node.data, end=' ')
+            current_node = current_node.next
+        print()
+
+# 使用範例
+if __name__ == "__main__":
+    linked_list = LinkedList()
+    linked_list.append(1)
+    linked_list.append(2)
+    linked_list.append(3)
+    linked_list.print_list()
+```
+### 雙向鏈表
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.prev = None
+        self.next = None
+
+class DoublyLinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        last_node = self.head
+        while last_node.next:
+            last_node = last_node.next
+        last_node.next = new_node
+        new_node.prev = last_node
+
+    def print_list(self):
+        current_node = self.head
+        while current_node:
+            print(current_node.data, end=' ')
+            current_node = current_node.next
+        print()
+
+# 使用範例
+if __name__ == "__main__":
+    linked_list = DoublyLinkedList()
+    linked_list.append(1)
+    linked_list.append(2)
+    linked_list.append(3)
+    linked_list.print_list()
+```
 # 專題連結區
 
 
