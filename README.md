@@ -32,7 +32,8 @@
 
 ## 2024/05/20 - 2024/05/26  
 [2024.05.20](https://github.com/PeiHsiuLu/data-structure/blob/main/0520.md)  
-[2024.05.21](https://github.com/PeiHsiuLu/data-structure/blob/main/0521.md)
+[2024.05.21](https://github.com/PeiHsiuLu/data-structure/blob/main/0521.md)  
+[2024.05.21](https://github.com/PeiHsiuLu/data-structure/blob/main/0523.md)
 
 
 
