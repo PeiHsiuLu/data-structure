@@ -5,6 +5,20 @@
 
 # 基礎資料結構
 
+# Leetcode 刷題連結
+[我的Leetcode刷題](https://leetcode.com/u/paul234jj/)
+
+# 學習重點
+
+## 1.Algorithm: Binary Search
+
+## 2.Algorithm: Two pointers
+
+## 3.Data-structure: Linked-list
+
+## 4.Data-structure: Stack
+
+## 5.Algorithm: Sorting
 
 # 刷題歷程  
 
@@ -12,8 +26,6 @@
 漫無目的的刷題，還在摸索自己想要專注的主題。尚未建立一套有系統的刷題策略。以下圖片是截至2024/05/20下午的刷題記錄：  
   
 ![圖片描述](https://github.com/PeiHsiuLu/data-structure/blob/main/Leetcode_0520_evening.png?raw=true)  
-
-
 
 ## 主要刷題類型：Binary Search, Two Pointers, Linked List, Stack, Sorting  
 [001-010](https://github.com/PeiHsiuLu/data-structure/blob/main/001-010.md)  
