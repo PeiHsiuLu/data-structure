@@ -6,7 +6,7 @@
 # 基礎資料結構
 
 # Leetcode 刷題連結
-[我的Leetcode刷題](https://leetcode.com/u/paul234jj/)
+[Leetcode:我的Leetcode刷題](https://leetcode.com/u/paul234jj/)
 
 # 學習重點
 
