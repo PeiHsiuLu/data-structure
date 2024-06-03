@@ -16,9 +16,12 @@
 
 
 ## 主要刷題類型：Binary Search, Two Pointers, Linked List, Stack, Sorting  
-[001-010](https://github.com/PeiHsiuLu/data-structure/blob/main/0520.md)  
-[011-020](https://github.com/PeiHsiuLu/data-structure/blob/main/0521.md)  
-[021-030](https://github.com/PeiHsiuLu/data-structure/blob/main/0523.md)
+[001-010](https://github.com/PeiHsiuLu/data-structure/blob/main/001-010.md)  
+[011-020](https://github.com/PeiHsiuLu/data-structure/blob/main/011-020.md)  
+[021-030](https://github.com/PeiHsiuLu/data-structure/blob/main/021-030.md)  
+[031-040](https://github.com/PeiHsiuLu/data-structure/blob/main/031-040.md)  
+[041-050](https://github.com/PeiHsiuLu/data-structure/blob/main/041-050.md)  
+[051-060](https://github.com/PeiHsiuLu/data-structure/blob/main/051-060.md)
 
 
 
