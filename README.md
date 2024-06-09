@@ -34,9 +34,9 @@
 [031-040](https://github.com/PeiHsiuLu/data-structure/blob/main/031-040.md)  
 [041-050](https://github.com/PeiHsiuLu/data-structure/blob/main/041-050.md)  
 [051-060](https://github.com/PeiHsiuLu/data-structure/blob/main/051-060.md)  
-[061-070](https://github.com/PeiHsiuLu/data-structure/blob/main/061-070.md) 
-[071-080](https://github.com/PeiHsiuLu/data-structure/blob/main/071-080.md) 
-[081-090](https://github.com/PeiHsiuLu/data-structure/blob/main/081-090.md) 
+[061-070](https://github.com/PeiHsiuLu/data-structure/blob/main/061-070.md)   
+[071-080](https://github.com/PeiHsiuLu/data-structure/blob/main/071-080.md)   
+[081-090](https://github.com/PeiHsiuLu/data-structure/blob/main/081-090.md)   
 
 
 
