@@ -27,7 +27,7 @@
   
 ![圖片描述](https://github.com/PeiHsiuLu/data-structure/blob/main/Leetcode_0520_evening.png?raw=true)  
 
-## 主要刷題類型：Binary Search, Two Pointers, Linked List, Stack, Sorting(2024/05/20-2024/06/11)  
+## 主要刷題類型：Binary Search, Two Pointers, Linked List, dynamic progrmming(2024/05/20-2024/06/11)  
 [001-010](https://github.com/PeiHsiuLu/data-structure/blob/main/001-010.md)  
 [011-020](https://github.com/PeiHsiuLu/data-structure/blob/main/011-020.md)  
 [021-030](https://github.com/PeiHsiuLu/data-structure/blob/main/021-030.md)  
