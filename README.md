@@ -18,7 +18,9 @@
 
 ## 4.Data-structure: Stack
 
-## 5.Algorithm: Sorting
+## 5.Dynamic programming
+
+## 6.Pandas
 
 # 刷題歷程  
 
